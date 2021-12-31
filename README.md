@@ -3,6 +3,6 @@ tabs
 
 
 ## how it look
-![](screenshot/screenshot1.PNG)
+![](screenshots/screenshot1.PNG)
 
-![](screenshot/screenshot2.PNG)
+![](screenshots/screenshot2.PNG)
